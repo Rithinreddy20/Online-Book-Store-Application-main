@@ -1,18 +1,6 @@
 # Full Stack E-Commerce Project using MERN
 
-Live Link - [Scriptum](https://64acfe9e1360c149c010d1c6--rad-pastelito-4cbb81.netlify.app/)
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Live Link - [Online Book Store Application](https://64acfe9e1360c149c010d1c6--rad-pastelito-4cbb81.netlify.app/)
 
 ## Technologies used 
 1. HTML
